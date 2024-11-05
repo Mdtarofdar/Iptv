@@ -385,7 +385,8 @@ http://tv.cloudcdn.me/live.ts?channelId=097&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://opplex.tv:8080/live/Tahir9221/Raza657586/244389.ts
 
 #EXTINF:0
-tvg-logo="none" group-title="Music",TeT
+tvg-logo="none" group-title="Music",Te
+
 
 
 #EXTINF:0 tvg-logo="none" group-title="Music",Bangla Talkies
